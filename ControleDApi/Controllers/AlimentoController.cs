@@ -38,7 +38,7 @@ namespace ControleDApi.Controllers
     //        System.IO.StreamReader file =
     //new System.IO.StreamReader(caminho);
 
-            var line = "";
+          //  var line = "";
             //try
             //{
 
